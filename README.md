@@ -1,6 +1,6 @@
 # Modern UI/UX GPT3 Website Project
 
-![gpt-main-page]([https://github.com/yourusername/repo-name/raw/main/path/to/your/image.png](https://github.com/Abubakarrrr/Modern-UI-GPT3/blob/main/gpt3_main.png))
+![gpt-main-page](https://github.com/Abubakarrrr/Modern-UI-GPT3/blob/main/gpt3_main.png)
 
 
 ## Description
